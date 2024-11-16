@@ -1,0 +1,8 @@
+Requirements
+Libraries:
+Python 3.x
+Pandas
+Matplotlib
+Seaborn
+Dataset:
+The project uses the Titanic dataset in CSV format. Ensure the file is named Titanic.csv and is located in the same directory as the script.
